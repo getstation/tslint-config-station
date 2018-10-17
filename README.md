@@ -2,6 +2,7 @@ TSLint Config Station
 =====================
 
 [![Build Status](https://travis-ci.com/getstation/tslint-config-station.svg?branch=master)](https://travis-ci.com/getstation/tslint-config-station)
+[![npm](https://img.shields.io/npm/v/tslint-config-station.svg)](https://www.npmjs.com/package/tslint-config-station)
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/configuration/) derived from [tslint-config-airbnb](https://github.com/progre/tslint-config-airbnb) used at [Station](https://getstation.com)
 `
