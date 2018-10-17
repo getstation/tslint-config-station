@@ -4,7 +4,8 @@
   "description": "The official Station TSLint config",
   "main": "tslint.js",
   "scripts": {
-    "test": "tslint -c tslint.js -p ."
+    "test": "tslint -c tslint.js -p .",
+    "prepublishOnly": "yarn test"
   },
   "repository": {
     "type": "git",
