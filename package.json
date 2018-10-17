@@ -1,0 +1,35 @@
+{
+  "name": "tslint-config-station",
+  "version": "0.1.0",
+  "description": "The official Station TSLint config",
+  "main": "tslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getstation/tslint-config-station.git"
+  },
+  "keywords": [
+    "station",
+    "tslint",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getstation/tslint-config-station/issues"
+  },
+  "homepage": "https://github.com/getstation/tslint-config-station#readme",
+  "dependencies": {
+    "tslint-config-airbnb": "=5.11.0"
+  },
+  "devDependencies": {
+    "tslint": "=5.11.0",
+    "typescript": "=3.1.3"
+  },
+  "peerDependencies": {
+    "tslint": "=5.11.0",
+    "typescript": "=3.1.3"
+  }
+}
