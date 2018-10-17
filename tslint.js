@@ -23,8 +23,6 @@ module.exports = {
     "import-name": false,
     "interface-name": false,
     "interface-over-type-literal": false,
-    "jsx-no-lambda": false,
-    "jsx-no-multiline-js": false,
     "max-classes-per-file": [
       false
     ],
