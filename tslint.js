@@ -6,6 +6,7 @@ module.exports = {
     "no-empty": [true, "allow-empty-catch", "allow-empty-functions"]
   },
   "rules": {
+    "no-else-after-return": [true, "allow-else-if"],
     "align": [true, "parameters", "statements", "members", "elements"],
     "arrow-parens": false,
     "comment-format": [
