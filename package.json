@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-station",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "The official Station TSLint config",
   "main": "tslint.js",
   "scripts": {
