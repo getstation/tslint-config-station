@@ -18,10 +18,6 @@ module.exports = {
       true,
       "ignore-same-line"
     ],
-    "import-blacklist": [
-      true,
-      "rxjs"
-    ],
     "import-name": false,
     "interface-name": false,
     "interface-over-type-literal": false,
