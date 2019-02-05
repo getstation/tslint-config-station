@@ -1,10 +1,10 @@
 {
   "name": "tslint-config-station",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "The official Station TSLint config",
-  "main": "tslint.js",
+  "main": "index.js",
   "scripts": {
-    "test": "tslint -c tslint.js -p .",
+    "test": "tslint -c tslint.json -p .",
     "prepublishOnly": "yarn test"
   },
   "repository": {

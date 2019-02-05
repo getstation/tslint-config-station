@@ -1,6 +1,6 @@
-module.exports = {
+{
   "extends": [
-    "tslint-config-airbnb",
+    "tslint-config-airbnb"
   ],
   "jsRules": {
     "no-empty": [true, "allow-empty-catch", "allow-empty-functions"]
@@ -25,9 +25,7 @@ module.exports = {
     "import-name": false,
     "interface-name": false,
     "interface-over-type-literal": false,
-    "max-classes-per-file": [
-      false
-    ],
+    "max-classes-per-file": false,
     "max-line-length": [
       true,
       {
@@ -142,5 +140,4 @@ module.exports = {
       "check-preblock"
     ]
   }
-};
-
+}
