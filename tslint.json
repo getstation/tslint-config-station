@@ -18,10 +18,7 @@
       true,
       "ignore-same-line"
     ],
-    "import-blacklist": [
-      true,
-      "rxjs"
-    ],
+    "import-blacklist": false,
     "import-name": false,
     "interface-name": false,
     "interface-over-type-literal": false,
